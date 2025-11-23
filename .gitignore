@@ -1,0 +1,28 @@
+# Byte-compiled
+__pycache__/
+*.pyc
+
+# Environments
+.env
+venv/
+.env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Cache
+__pypackages__/
+.pytest_cache/
+.mypy_cache/
+
+# Data folder
+data/
