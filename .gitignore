@@ -11,8 +11,6 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# VSCode
-.vscode/
 
 # Python packaging
 build/
