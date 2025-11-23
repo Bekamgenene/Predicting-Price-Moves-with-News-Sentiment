@@ -19,3 +19,4 @@ pylint>=2.17.0
 # spaCy and RAKE
 spacy==3.7.2
 rake-nltk==1.0.6
+ta==0.12.0
